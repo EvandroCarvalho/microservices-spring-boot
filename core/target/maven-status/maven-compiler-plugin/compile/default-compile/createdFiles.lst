@@ -1,0 +1,4 @@
+com/microservice/devdojo/core/model/AbstractEntity.class
+com/microservice/devdojo/core/model/Course$CourseBuilder.class
+com/microservice/devdojo/core/repository/CourseRepository.class
+com/microservice/devdojo/core/model/Course.class
